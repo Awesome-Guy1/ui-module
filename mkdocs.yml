@@ -1,0 +1,23 @@
+site_name: UI Module
+site_url: https://Awesome-Guy1.github.io/UI-Module
+site_description: Documentation for UI Module
+#repo_url: https://github.com/squidfunk/mkdocs-material
+nav:
+  - Home: index.md
+  - Tutorial:
+      - tutorial/setting_up.md
+      - tutorial/basic_usage.md
+  - API:
+      - api/ui_module.md
+      - api/window.md
+theme:
+  language: en
+  palette:
+    primary: deep orange
+    accent: deep purple
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.footer
