@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://awesome-guy1.github.io/ui-module/</loc>
+         <lastmod>2025-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://awesome-guy1.github.io/ui-module/api/ui_module/</loc>
+         <lastmod>2025-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://awesome-guy1.github.io/ui-module/api/window/</loc>
+         <lastmod>2025-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://awesome-guy1.github.io/ui-module/tutorial/basic_usage/</loc>
+         <lastmod>2025-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://awesome-guy1.github.io/ui-module/tutorial/setting_up/</loc>
+         <lastmod>2025-05-18</lastmod>
+    </url>
+</urlset>
